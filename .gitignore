@@ -1,0 +1,4 @@
+training_data.csv
+model/
+
+model/model.h5
